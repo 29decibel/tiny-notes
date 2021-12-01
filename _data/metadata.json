@@ -1,0 +1,21 @@
+{
+  "title": "Tiny Notes",
+  "url": "https://tiny-notes.dongbin.li/",
+  "language": "en",
+  "description": "Tiny notes, ideas influenced me.",
+  "feed": {
+    "subtitle": "Tiny notes.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://tiny-notes.dongbin.li/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://tiny-notes.dongbin.li/feed/feed.json"
+  },
+  "author": {
+    "name": "Mike Li",
+    "email": "hi@dongbin.li",
+    "url": "https://tiny-notes.dongbin.li/about/"
+  }
+}
